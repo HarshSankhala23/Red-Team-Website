@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+      <title>🪴 Quartz 4.0</title>
+      <link>https://quartz.jzhao.xyz</link>
+      <description>Last 10 notes on 🪴 Quartz 4.0</description>
+      <generator>Quartz -- quartz.jzhao.xyz</generator>
+      <item>
+    <title>pwn</title>
+    <link>https://quartz.jzhao.xyz/CTF/pwn</link>
+    <guid>https://quartz.jzhao.xyz/CTF/pwn</guid>
+    <description>GDB &amp; r2 Tutorial.</description>
+    <pubDate>Mon, 17 Feb 2025 19:14:07 GMT</pubDate>
+  </item><item>
+    <title>Cicada HTB solving using only nxc</title>
+    <link>https://quartz.jzhao.xyz/HTB/Cicada-HTB-solving-using-only-nxc</link>
+    <guid>https://quartz.jzhao.xyz/HTB/Cicada-HTB-solving-using-only-nxc</guid>
+    <description>Cicada HTB [NetExec Way Only] Target IP : 10.129.61.82 Get the /etc/hosts populated automatically via nxc sudo nxc smb 10.129.61.82 --generate-hosts-file /etc/hosts Let’s enum ...</description>
+    <pubDate>Mon, 17 Feb 2025 12:41:38 GMT</pubDate>
+  </item><item>
+    <title>index</title>
+    <link>https://quartz.jzhao.xyz/</link>
+    <guid>https://quartz.jzhao.xyz/</guid>
+    <description>...</description>
+    <pubDate>Mon, 17 Feb 2025 09:13:25 GMT</pubDate>
+  </item>
+    </channel>
+  </rss>
